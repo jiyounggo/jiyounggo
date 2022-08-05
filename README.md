@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=jiyoung's%20GitHub&fontSize=65&animation=scaleIn)
-<h3>⛏Technologies & Tools⛏</h3>
-<div align="center" dir="auto"🛠 Tech Stack 🛠</div>
+
+<div align="center" dir="auto"><h3>⛏Technologies & Tools⛏</h3></div>
 <div align="center" margin-b:10px><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6B?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"
 
